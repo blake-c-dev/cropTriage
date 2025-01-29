@@ -3,7 +3,7 @@ Accompanying application for senior design team 29 for Texas A&M ECEN 403, 404 S
 
 !!! This application was not designed to be very maintainable and was designed to get an A in two semesters. It breaks several MVC rules. !!!
 
-I won money with this: https://sickconnect.com/university-students-solve-big-problems-sick-lidar-automated-robotic-tool-carrier/ 
+I won money with this: [link to SICK USA blog post](https://sickconnect.com/farm-surveying-drone-tyto-functions-help-farmers-monitor-crop-growth/?)
 
 # Changelog
 > 3/21/2021
